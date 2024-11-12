@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CasMattis
+- 👀 I’m interested in sport , video games, and info in general.
+- 🌱 I’m currently learning how to code in C for my studies.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Nothing so i need to get better IG.

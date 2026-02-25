@@ -73,11 +73,23 @@ t_dev me = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattis_Castelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattis-castelli-9455053a0/)
-[![Instagram](https://img.shields.io/badge/Instagram-@m__atti__s__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_atti_s_/)
-[![Gmail](https://img.shields.io/badge/Gmail-mattis.castell@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattis.castell@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-mattis.castelli@epitech.eu-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mattis.castelli@epitech.eu)
+<a href="https://www.linkedin.com/in/mattis-castelli-9455053a0/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/m_atti_s_/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mattis.castell@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mattis.castelli@epitech.eu">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
 
 </div>
+
 
 ---
